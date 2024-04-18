@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java, PHP and SQL
 - 💞️ I’m looking to collaborate on some interesting projects
-- 📫 How to reach me (olease don't)
+- 📫 How to reach me (please don't)
 
 <!---
 Carbonio16/Carbonio16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
